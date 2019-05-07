@@ -1,0 +1,7 @@
+aluno.unilasalle@LB118UNI:~$ nano criapasta.sh
+aluno.unilasalle@LB118UNI:~$ bash criapasta.sh 
+Entre com seu nome: 
+monica
+aluno.unilasalle@LB118UNI:~$ cd monica
+aluno.unilasalle@LB118UNI:~/monica$ ls
+monica1.txt  monica2.txt  monica3.txt
